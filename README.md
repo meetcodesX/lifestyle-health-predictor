@@ -1,7 +1,7 @@
 # lifestyle-health-predictor
 # 🧠 Health Risk Prediction using Machine Learning
 ## 📌 Project Overview
-This project focuses on predicting whether a person is **healthy or at risk** using supervised machine learning techniques.
+This project focuses on predicting whether a person is **healthy or at risk** using supervised machine learning techniques
 
 ## 📊 Dataset
 * Around 9,800 records
